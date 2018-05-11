@@ -16,7 +16,8 @@ We're transporting you back to the early 2000's – we're building a quick blog.
 **What do you think you would do different if you had 2 weeks to complete this assignment and no requirement to use Github. What would your backend solution look like?**
 
 *__Answer:__*
-  With the time given time I primarly focus on general scaffolding. By having more time I would like to focus more on:
+
+  With the time given I primarly focus on general scaffolding. By having more time I would like to focus more on:
   - Services integration with github, perhaps make use of its new grapql api
   - componentization, work on having a set of primary and base UI components for rendering the content after devising some mockups for data the UI
   - Tests & Error handling, plan on how to work on the coverage and error handling
@@ -24,12 +25,14 @@ We're transporting you back to the early 2000's – we're building a quick blog.
 **How and where do you feel like this application should be deployed to?**
 
 *__Answer:__*
+
 I beleive this strongly depends on the client's insfractrure. But that being said said, I think this app can be deployed under a Serverless schema. It quite isolates the infraestructre handling from the app itself, and save you time and money.
 
 **Are you happy with your own solutions? If yes, what parts do you think are really
 well done, if not, what would you want to change?**
 
 *__Answer:__*
+
 I really like the output for this project, I would like to highlight the work done in the general scaffolding for:
 - Handling screens navigation/routing
 - State and props intherence
