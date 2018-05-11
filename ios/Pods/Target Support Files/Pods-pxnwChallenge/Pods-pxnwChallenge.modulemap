@@ -1,0 +1,6 @@
+framework module Pods_pxnwChallenge {
+  umbrella header "Pods-pxnwChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
