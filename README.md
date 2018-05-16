@@ -37,7 +37,7 @@ I really like the output for this project, I would like to highlight the work do
 
 I beleive this are good foundations for scalability althoug they might require more work later.
 
-I the other hand, in a next chance in this project I would like to improve in:
+In the other hand, in a next chance in this project I would like to improve in:
 - Styling, propose a more scalable way to configure a stylesheet
 -Error handling, work on planing a suite for testing and handling side effects
 
@@ -104,12 +104,13 @@ react-native link
 
 ## Running
 
-1. Open react native debugger, it should be installed as a regular app
+1. Open react native debugger, it should be installed as a regular app (MUST)
 
 2. Run iOS app with the following command
 ```
 yarn run ios
 ```
+3. On the iOS simulator press keys: `Command + D`, and then select option: `Debug JS Remotely`
 
 ### Coding style
 
